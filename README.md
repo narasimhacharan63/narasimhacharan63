@@ -82,8 +82,9 @@ A futuristic interactive Tic-Tac-Toe game with different gameplay modes and an e
 **Tech Stack**
 
 `HTML` `CSS` `JavaScript`
-
-🔗 **View Project**
+<a href="https://github.com/narasimhacharan63/tactical-tic-tac-toe">
+  🔗 View Project
+</a>
 
 </td>
 
@@ -97,7 +98,9 @@ An AI-focused movie project created while exploring intelligent applications and
 
 `HTML` `CSS`
 
-🔗 **View Project**
+<a href="https://github.com/narasimhacharan63/CineMind-AI">
+  🔗 View Project
+</a>
 
 </td>
 
@@ -115,7 +118,9 @@ A collection of interactive games created while learning web development and Jav
 
 `HTML` `CSS` `JavaScript`
 
-🔗 **View Project**
+<a href="https://github.com/narasimhacharan63/charan-portfolio">
+  🔗 View Project
+</a>
 
 </td>
 
@@ -208,11 +213,11 @@ I started my journey by learning programming fundamentals and building small pro
 ## 📊 GitHub Activity
 
 <div align="center">
+## 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=narasimhacharan63&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=E2E8F0" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=narasimhacharan63&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" width="48%"/>
-
+<p align="center">
+  🚀 Learn • Build • Experiment • Improve
+</p>
 </div>
 
 ---
