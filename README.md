@@ -1,6 +1,10 @@
-# 👋 Hi, I'm Charan
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Charan+%F0%9F%91%8B;B.Tech+Artificial+Intelligence+Student+%F0%9F%A4%96;Web+Developer+%F0%9F%92%BB;Game+Developer+%F0%9F%8E%AE;Always+Learning+%26+Building+%F0%9F%9A%80" />
+</p>
 
-### 🎓 B.Tech Artificial Intelligence Student | 💻 Developer | 🤖 AI Enthusiast
+<p align="center">
+  <b>🎓 B.Tech Artificial Intelligence | 💻 Developer | 🤖 AI Enthusiast</b>
+</p>
 
 I enjoy building interactive web applications, games, and
 AI-based projects while continuously improving my development skills.
@@ -39,32 +43,83 @@ AI-based projects while continuously improving my development skills.
 
 # 🚀 Featured Projects
 
-## 🎮 Tactical Tic-Tac-Toe
+<table>
+<tr>
+<td width="50%">
 
-A futuristic interactive Tic-Tac-Toe game built using
-HTML, CSS and JavaScript.
+### 🎮 Tactical Tic-Tac-Toe
 
-🔗 [View Project](https://github.com/narasimhacharan63/tactical-tic-tac-toe)
+A futuristic interactive Tic-Tac-Toe game with an engaging
+interface and different gameplay modes.
 
----
+**Tech Stack**
 
-## 🎬 CineMind AI
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-An AI-focused movie project created to explore intelligent
-movie-related experiences and web development.
+<br>
 
-🔗 [View Project](https://github.com/narasimhacharan63/CineMind-AI)
+🔗 **[View Project →](https://github.com/narasimhacharan63/tactical-tic-tac-toe)**
 
----
+</td>
 
-## 🎮 Game Portfolio
+<td width="50%">
 
-A collection of interactive games built while learning
+### 🎬 CineMind AI
+
+An AI-focused movie project created while exploring
+intelligent applications and modern web development.
+
+**Tech Stack**
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+<br>
+
+🔗 **[View Project →](https://github.com/narasimhacharan63/CineMind-AI)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎮 Charan Game Portfolio
+
+A collection of interactive games created while learning
 web development and JavaScript.
 
-🔗 [View Project](https://github.com/narasimhacharan63/charan-portfolio)
+**Tech Stack**
 
----
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+<br>
+
+🔗 **[View Project →](https://github.com/narasimhacharan63/charan-portfolio)**
+
+</td>
+
+<td width="50%">
+
+### 🚀 More Projects Coming Soon
+
+I'm continuously building new projects in
+Artificial Intelligence, Web Development and Game Development.
+
+**Currently Exploring**
+
+🤖 Artificial Intelligence  
+🐍 Python  
+☕ Java  
+🌐 Web Development
+
+</td>
+</tr>
+</table>
 
 # 📚 Currently Learning
 
@@ -90,6 +145,28 @@ Artificial Intelligence with software development.
 ---
 
 # 📈 My GitHub Journey
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=narasimhacharan63&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=narasimhacharan63&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narasimhacharan63&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
 
 I use GitHub to document my projects, experiment with new
 ideas, and continuously improve my programming skills.
