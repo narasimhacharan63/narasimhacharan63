@@ -157,17 +157,6 @@ I started my journey by learning programming fundamentals and building small pro
 
 # 📊 GitHub Activity
 
-<p align="center">
-
----
-
-## 🐍 My Contribution Journey
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-
-</p>
 
 ---
 
@@ -188,15 +177,6 @@ ideas, and continuously improve my programming skills.
 ---
 ---
 ---
-
-
-### 🎮 Game Collection
-A collection of interactive games developed while learning web development and JavaScript.
-
-**Tech:** HTML • CSS • JavaScript
-
-🔗 [View Project](https://github.com/narasimhacharan63/charan-portfolio)
-
 
 # 🚀 What I'm Building
 
@@ -259,16 +239,6 @@ with modern web technologies.
 <p align="center">
 <i>Learn • Build • Improve • Repeat 🚀</i>
 </p>
----
-
-## 🐍 My Contribution Journey
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-
-</p>
-
 ---
 
 <p align="center">
