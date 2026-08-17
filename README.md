@@ -189,34 +189,6 @@ ideas, and continuously improve my programming skills.
 ---
 ---
 
-## 🚀 Featured Projects
-
-### 🎮 Tactical Tic-Tac-Toe
-A futuristic interactive Tic-Tac-Toe game with multiple gameplay modes and an engaging interface.
-
-**Tech:** HTML • CSS • JavaScript
-
-🔗 [View Project](https://github.com/narasimhacharan63/tactical-tic-tac-toe)
-
----
-
-### 🤖 CineMind AI
-An AI-focused movie project created to explore intelligent applications and modern web development.
-
-**Tech:** HTML • CSS
-
-🔗 [View Project](https://github.com/narasimhacharan63/CineMind-AI)
-
----
-
-### 💻 Charan Portfolio
-My personal developer portfolio showcasing my projects, skills and development journey.
-
-**Tech:** HTML • CSS • JavaScript
-
-🔗 [View Project](https://github.com/narasimhacharan63/charan-portfolio)
-
----
 
 ### 🎮 Game Collection
 A collection of interactive games developed while learning web development and JavaScript.
