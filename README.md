@@ -173,6 +173,45 @@ ideas, and continuously improve my programming skills.
 
 ---
 ---
+---
+
+# 🚀 What I'm Building
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🎮 Games
+
+Building interactive games
+and improving my
+game development skills.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 AI Projects
+
+Exploring Artificial Intelligence
+through practical
+real-world projects.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🌐 Web Projects
+
+Creating responsive and
+interactive websites
+with modern web technologies.
+
+</td>
+</tr>
+</table>
+
+---
 
 # 🤝 Connect With Me
 
