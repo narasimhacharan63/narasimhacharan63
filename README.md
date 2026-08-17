@@ -222,16 +222,6 @@ I started my journey by learning programming fundamentals and building small pro
 
 ---
 
-## 🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
 ## 🚀 What I'm Building
 
 <table>
