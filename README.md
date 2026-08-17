@@ -159,12 +159,24 @@ I started my journey by learning programming fundamentals and building small pro
 
 <p align="center">
 
-🚀 Building projects and improving every day
+---
 
-🎮 Interactive Games
-🤖 Artificial Intelligence Projects
-🌐 Web Development
-🐍 Python & Java Programming
+## 🐍 My Contribution Journey
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+
+</p>
+
+---
+
+<p align="center">
+
+### 🚀 Learn • Build • Experiment • Improve
+
+**© 2026 Charan | B.Tech Artificial Intelligence**
+
 </p>
 
 ---
