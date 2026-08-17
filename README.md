@@ -146,27 +146,19 @@ Artificial Intelligence with software development.
 
 # 📈 My GitHub Journey
 ---
+---
 
-# 📊 GitHub Stats
+# 📊 GitHub Activity
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=narasimhacharan63&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=narasimhacharan63&show_icons=true&hide_border=true&theme=tokyonight" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=narasimhacharan63&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narasimhacharan63&layout=compact&hide_border=true&theme=tokyonight" width="48%" />
 
 </p>
 
 ---
-
-## 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narasimhacharan63&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
 
 I use GitHub to document my projects, experiment with new
 ideas, and continuously improve my programming skills.
