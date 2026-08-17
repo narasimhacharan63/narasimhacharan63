@@ -172,7 +172,28 @@ I use GitHub to document my projects, experiment with new
 ideas, and continuously improve my programming skills.
 
 ---
+---
 
-### ⭐ Thanks for visiting my profile!
+# 🤝 Connect With Me
 
-**Keep learning. Keep building. Keep growing. 🚀**
+<p align="center">
+
+<a href="https://github.com/narasimhacharan63">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+<p align="center">
+💬 Open to learning, collaboration and exciting project ideas!
+</p>
+
+---
+
+<p align="center">
+<b>⭐ Thanks for visiting my profile!</b>
+</p>
+
+<p align="center">
+<i>Learn • Build • Improve • Repeat 🚀</i>
+</p>
